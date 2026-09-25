@@ -16,6 +16,10 @@ Validated view-to-purchase conversion: **6.09%**.
 
 The most reliable downstream bottleneck was **shipping → payment**, with about **39% drop-off**. Desktop (**60.54%**) and mobile (**61.54%**) were nearly identical, so the evidence did not support a device-specific explanation.
 
+## Dashboard
+
+![E-commerce Conversion Diagnostic Dashboard](tableau/Ecommerce_Conversion_Diagnostic_Dashboard.png)
+
 ## Data
 
 Dataset: `bigquery-public-data.ga4_obfuscated_sample_ecommerce`
