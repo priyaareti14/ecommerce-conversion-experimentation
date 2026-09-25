@@ -18,7 +18,9 @@ The most reliable downstream bottleneck was **shipping → payment**, with about
 
 ## Dashboard
 
-![E-commerce Conversion Diagnostic Dashboard](tableau/Ecommerce_Conversion_Diagnostic_Dashboard.png)
+[![E-commerce Conversion Diagnostic Dashboard](tableau/Ecommerce_Conversion_Diagnostic_Dashboard.png)](YOUR_TABLEAU_PUBLIC_URL)
+
+**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/priya.areti/viz/E-commerceConversionDiagnosticExperimentationSystem/ExecutiveDashboard)**
 
 ## Data
 
